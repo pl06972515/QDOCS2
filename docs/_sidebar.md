@@ -1,6 +1,18 @@
--  <span style='color:RED'>基础语法</span>
--  [✡ Number](v1.0.0)
+-  <span style='color:RED'>数据类型</span>
+-  [✴ Number ](v1.0.0)
+-  [✴ String ](v2.0.0)
+-  [✴ Boolean ](v3.0.0) 
+-  -
+-  [✴ Undefined ](v4.0.0) 
+-  [✴ Null ](v5.0.0) 
+-  -
+-  [✴ Object ](v6.0.0)
+-  [✴ Array ](v7.0.0)
+-  
+-  <span style='color:Blue'>基础语法</span>
+-  [✴ 变量概述 ](p1.0.0)
 -  
 -  <span style='color:RED'>附录</span>
+-  [✡ [ 类型检测 ] typeof](F1.0.0)
 -  
 
