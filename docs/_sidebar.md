@@ -8,6 +8,7 @@
 -  -
 -  [✴ Object ](v6.0.0)
 -  [✴ Array ](v7.0.0)
+-  [☢ [ 迭代器 ] IEnumerable( iterable ) ](v8.0.0)
 -  
 -  <span style='color:Blue'>基础语法</span>
 -  [✴ 变量概述 ](p1.0.0)
