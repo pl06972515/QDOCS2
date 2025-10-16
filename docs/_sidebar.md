@@ -4,7 +4,7 @@
 -  [✴ Boolean ](v3.0.0) 
 -  -
 -  [✴ Undefined ](v4.0.0) 
--  [✴ Null ](v5.0.0) 
+-  [☢ Null ](v5.0.0) 
 -  -
 -  [✴ Object ](v6.0.0)
 -  [✴ Array ](v7.0.0)
@@ -12,6 +12,7 @@
 -  
 -  <span style='color:Blue'>基础语法</span>
 -  [✴ 变量概述 ](p1.0.0)
+-  [✴ [ 内置 ]运算符 ](p2.0.0)
 -  
 -  <span style='color:RED'>附录</span>
 -  [✡ [ 类型检测 ] typeof](F1.0.0)
