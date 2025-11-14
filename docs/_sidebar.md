@@ -3,6 +3,8 @@
 -  [✴ String ](v2.0.0)
 -  [✴ Boolean ](v3.0.0) 
 -  -
+-  [✴ Data ](v9.0.0) 
+-  -
 -  [✡ Undefined ](v4.0.0) 
 -  [✡ Null ](v5.0.0) 
 -  -
