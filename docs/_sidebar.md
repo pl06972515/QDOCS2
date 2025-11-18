@@ -13,7 +13,7 @@
 -  [✡ [ 迭代器 ] IEnumerable( iterable ) ](v8.0.0)
 -  
 -  <span style='color:Blue'>基础语法</span>
--  [✡ 变量概述 ](p1.0.0)
+-  [✡ [ 变量 ] ](p1.0.0)
 -  [✡ [ 内置 ] 运算符 ](p2.0.0)
 -  -
 -  [✡ [ 函数 ] Method ](p3.0.0)
