@@ -19,6 +19,7 @@
 -  -
 -  [✡ [ 函数定义 ] Method ](p3.0.0)
 -  [☢ [ 面向对象 ] OO ](o1.0.0)
+-  [☢ [ 异常处理 ] Exception ](p4.0.0)
 -  
 -  <span style='color:RED'>附录</span>
 -  [☢ [ 环境对象 ] this ](F2.0.0)
