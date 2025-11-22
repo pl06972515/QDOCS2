@@ -8,7 +8,6 @@
 -  [✡ Undefined ](v4.0.0) 
 -  [✡ Null ](v5.0.0) 
 -  -
--  [✴ Object ](v6.0.0)
 -  [✴ Array ](v7.0.0)
 -  [✡ [ 迭代器 ] IEnumerable( iterable ) ](v8.0.0)
 -  
@@ -18,8 +17,10 @@
 -  [✡ [ 内置 ] 运算符 ](p2.0.0)
 -  -
 -  [✡ [ 函数定义 ] Method ](p3.0.0)
--  [☢ [ 面向对象 ] OO ](o1.0.0)
--  [☢ [ 异常处理 ] Exception ](p4.0.0)
+-  -
+-  [✴ [ Object ] ](v6.0.0)
+-  [✴ [ Object ] 构造函数 ](o1.0.0)
+-  [✴ [ 异常处理 ] Exception ](p4.0.0)
 -  
 -  <span style='color:RED'>附录</span>
 -  [☢ [ 环境对象 ] this ](F2.0.0)
