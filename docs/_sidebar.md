@@ -20,7 +20,7 @@
 -  -
 -  [✴ [ Object ] ](v6.0.0)
 -  [✴ [ Object ] 构造函数 ](o1.0.0)
--  [ℹ️ [ Object ] 语法糖( ES6 )](o2.0.0)
+-  [ℹ️ [ Object ] Class ](o2.0.0)
 -  -
 -  [✴ [ 异常处理 ] Exception ](p4.0.0)
 -  
